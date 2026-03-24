@@ -4,9 +4,16 @@ int main()
 {
 	int i, sum;
 
-	i = 101;
 	sum = i * 50;
+	i = 101;
 
-	printf("sum: %d", sum);
+	printf("iterator: %d\n", i);
+	printf("sum: %d\n", sum);
+
+	/*
+	* Assume that some operation is performed
+	* using the previously computed results 'sum' and 'i' here
+	*/
+
 	return 0;
 }
