@@ -16,6 +16,9 @@
     <Filter Include="Source Files\Archived FIles">
       <UniqueIdentifier>{2d8922f6-563b-47de-9c47-833d70957e43}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Chapter_1">
+      <UniqueIdentifier>{27855bca-0674-4345-a1c3-783ae9e217f5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WoongCFundamentals.cpp">
@@ -24,8 +27,17 @@
     <ClCompile Include="example_1-1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="example_1-2.cpp">
+    <ClCompile Include="example_1-2.c">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="a.c">
+      <Filter>Source Files\Chapter_1</Filter>
+    </ClCompile>
+    <ClCompile Include="b.c">
+      <Filter>Source Files\Chapter_1</Filter>
+    </ClCompile>
+    <ClCompile Include="c.c">
+      <Filter>Source Files\Chapter_1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
