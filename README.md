@@ -47,6 +47,12 @@ https://www.hanbit.co.kr/store/books/look.php?p_code=B7248206143
 
 ---
 
+## 👤 Original Author
+
+[Woong Jeon](https://www.woong.org/)
+
+---
+
 ## 👤 Author
 
-woong
+Sungkuk Park
