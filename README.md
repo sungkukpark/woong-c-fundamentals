@@ -1,4 +1,4 @@
-# C Low-Level Fundamentals (woong)
+# C Low-Level Fundamentals (Woong Jeon)
 
 이 저장소는 『C 언어 펀더멘탈 - 견고한 프로그램을 위한 기본 원리』(전웅, 한빛미디어)에서 소개된 예제 코드를 직접 작성하고 정리한 학습용 저장소이다.
 
